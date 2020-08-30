@@ -8,4 +8,4 @@ It's pure CSS3.
 
 Load fast and easily customizable.
 
-[DEMO](https//markxxv.github.io/loader/)
+[DEMO](https://markxxv.github.io/loader/)
